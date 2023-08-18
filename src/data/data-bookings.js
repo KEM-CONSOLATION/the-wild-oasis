@@ -7,7 +7,7 @@ function fromToday(numDays, withTime = false) {
 }
 
 export const bookings = [
-  // CABIN 0001
+  // CABIN 001
   {
     created_at: fromToday(-20, true),
     startDate: fromToday(0),

@@ -8,7 +8,7 @@ import { bookings } from "./data-bookings";
 import { cabins } from "./data-cabins";
 import { guests } from "./data-guests";
 
-// const originalSettings = {
+// const originalSetting = {
 //   minBookingLength: 3,
 //   maxBookingLength: 30,
 //   maxGuestsPerBooking: 10,
